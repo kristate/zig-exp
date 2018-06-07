@@ -25,7 +25,7 @@ const exp = @import("exp");
 | conf     | unstable | Configuration file parser                      |
 | crc32    | unstable | 32-bit CRC defined in ITU V.42                 |
 | crypto   | unstable | Cryptographic Primitives                       |
-| dbg      | unstable | Debug printing                                 |
+| dbg      | unstable | Debug Primitives                               |
 | dns      | unstable | DNS resolving (NAPTR, SRV, A)                  |
 | fmt      | unstable | Formatted printing and regular expression      |
 | hash     | unstable | HashMap Implementation                         |
@@ -41,7 +41,7 @@ const exp = @import("exp");
 | mqueue   | unstable | Thread-safe message queue                      |
 | net      | unstable | Networking routines                            |
 | odict    | unstable | Ordered Dictionary                             |
-| platform | unstable | Platform Specific Functions and Primatives     |
+| platform | unstable | Platform Specific Functions and Primitives     |
 | sa       | unstable | Socket Address functions                       |
 | sys      | unstable | System information                             |
 | tcp      | unstable | TCP transport                                  |
